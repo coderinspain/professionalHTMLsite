@@ -1,2 +1,1 @@
-# professionalHTMLsite.
-#Must run npm install
+# professionalHTMLsite using sass
